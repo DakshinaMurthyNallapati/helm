@@ -1,5 +1,5 @@
 deployment:
   replicas: 3
-  imageVersion: bugfix version
+  imageVersion: bugfix
 service:
   nodePort: 30007
